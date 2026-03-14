@@ -1,0 +1,5 @@
+{
+  "name": "GRT Support Tickets",
+  "description": "Mobile-ready support ticket management for WordPress GRT Tickets plugin.",
+  "requestFramePermissions": ["notifications"]
+}
